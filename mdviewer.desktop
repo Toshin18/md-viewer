@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=md viewer
+GenericName=Markdown Viewer
+Comment=Smooth and authentic Markdown viewer and Architecture Studio for Linux
+Exec=mdviewer %f
+Icon=mdviewer
+Terminal=false
+Categories=Utility;TextEditor;Development;
+MimeType=text/markdown;text/x-markdown;text/plain;
+Keywords=markdown;viewer;preview;studio;diagram;architecture;editor;docs;
+StartupWMClass=mdviewer
+StartupNotify=true
